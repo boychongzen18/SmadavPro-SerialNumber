@@ -1,9 +1,8 @@
 # SERIAL NUMBER SMADAV PRO ALL VERSION
 
 # Registration SmadavPro
-
-![be](https://raw.githubuer/master/smadsercontent.com/boychongzen18/SmadavPro-SerialNumbavfree.jpg)
-![be](https://raw.githubuer/master/smadsercontent.com/boychongzen18/SmadavPro-SerialNumbavpro.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/SmadavPro-SerialNumber/master/smadavfree.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/SmadavPro-SerialNumber/master/smadavpro.jpg)
 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
